@@ -11,3 +11,4 @@ pypdf
 chonkie
 chonkie[openai]
 lancedb
+fastapi
