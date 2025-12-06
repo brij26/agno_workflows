@@ -12,3 +12,5 @@ chonkie
 chonkie[openai]
 lancedb
 fastapi
+googlesearch-python
+arxiv
